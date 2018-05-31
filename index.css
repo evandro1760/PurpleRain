@@ -1,0 +1,12 @@
+.purple {
+    background-color: purple;
+    width: 1px;
+    height: 10px;
+    position: absolute;
+    top: -10%;
+    left: -10%;
+}
+
+body{
+    background-color: black;
+}
